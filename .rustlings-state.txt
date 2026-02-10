@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-tests1
+arc1
 
 intro1
 intro2
@@ -56,6 +56,8 @@ errors1
 errors2
 errors3
 errors4
+errors5
+errors6
 generics1
 generics2
 traits1
@@ -67,3 +69,22 @@ quiz3
 lifetimes1
 lifetimes2
 lifetimes3
+tests1
+tests2
+tests3
+iterators1
+iterators2
+iterators3
+iterators4
+iterators5
+box1
+rc1
+cow1
+clippy1
+clippy2
+clippy3
+using_as
+from_into
+from_str
+try_from_into
+as_ref_mut
